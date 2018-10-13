@@ -1,2 +1,1 @@
-# learn-kubernetes
-学习Kubernetes
+# 学习Kubernetes
